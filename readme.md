@@ -1,1 +1,1 @@
-# This is my first line of code
+# A workshop repo made for VCS practice in summer enrichment class 2025 week 2
